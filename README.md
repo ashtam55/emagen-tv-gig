@@ -49,7 +49,7 @@ The Value Proposition of using Ashtam Singh for this project are:
 
 * Car Tracking Device
 
-![car-tracking-flow](https://github.com/ashtam55/emagen-tv-gig/blob/main/emagen-flow.png)
+![car-tracking-flow](https://github.com/ashtam55/emagen-tv-gig/blob/main/emagen-flow.jpg)
 
 ```
 
