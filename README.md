@@ -1,12 +1,12 @@
-# Statement of Work - Software for Human Interface Device
+# Statement of Work - IoT integeration for EmagenTV
 
 A document prepared by 
-Ashtam Singh on 19th July 2020
+Ashtam Singh on 09th March 2021
 
 ## Table of Content
 
 * Executive Summary
-* Project Definition
+* Delivery Scope
 * Devices
 * Web/Soft-ware
 * Maintenance
