@@ -77,7 +77,7 @@ Data to Send:       Notification to cashier interface for starting an audio/vide
 
 ![cashier-tracking-flow](https://github.com/ashtam55/emagen-tv-gig/blob/main/emagen-flow-2.png)
 
-Basic GUI for showing incoming request from Kiosk + an AV feed.
+* Basic GUI for showing incoming request from Kiosk + an AV feed.
 
 * Admin SDK / APIs for Devices
 Native packages to interact with the devices. 
