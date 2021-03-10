@@ -49,6 +49,8 @@ The Value Proposition of using Ashtam Singh for this project are:
 
 * Car Tracking Device
 
+![car-tracking-flow](https://github.com/ashtam55/emagen-tv-gig/blob/main/emagen-flow.png)
+
 ```
 
 Data to Capture:    Incoming Cars
@@ -57,6 +59,8 @@ Data to Send:       GET/POST request + notification to cashier interface
 ```
 
 * Kiosk Tracking Device
+![Kiosk-tracking-flow](https://github.com/ashtam55/emagen-tv-gig/blob/main/emagen-flow-3.png)
+
 
 ```
 
@@ -69,6 +73,8 @@ Data to Send:       Notification to cashier interface for starting an audio/vide
 ## Web/Software
 
 * Cashier UI
+![cashier-tracking-flow](https://github.com/ashtam55/emagen-tv-gig/blob/main/emagen-flow-2.png)
+
 Basic GUI for showing incoming request from Kiosk + an AV feed.
 
 * Admin SDK / APIs for Devices
